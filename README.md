@@ -16,8 +16,9 @@
 -	Other: Networking, MS Office, GitHub, VS Code, SQL Server Management Studio (SSMS), MySQL Shell, MySQL Workbench, Bootstrap
 
 ### Let's Connect
--LinkdIn - https://www.linkedin.com/in/nandit-sharma-9a0174203/
--Gmail - nanditsharma063@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/nandit-sharma-9a0174203/](https://www.linkedin.com/in/nandit-sharma-9a0174203/)
+ -Gmail: [nanditsharma063@gmail.com](mailto:nanditsharma063@gmail.com)
+
 
 <!---
 nandit9893/nandit9893 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
