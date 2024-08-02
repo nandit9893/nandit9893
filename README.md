@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Nandit Sharma
+# 👋 Hi, I’m Nandit Sharma
 
 ### About Me
 - 🌱 I’m currently learning ...
