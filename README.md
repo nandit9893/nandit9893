@@ -7,7 +7,14 @@
 - 📫 I've profound knowledge in Data Structures and Algorithms.
 
 ### Skills
-- Web Technologies- HTML, CSS, JavaScript
+- Web Technologies - HTML, CSS, JavaScript
+-	Framework: React JS, Node JS, Express JS
+-	Programming Languages: C, C++ (Standard Template Library)              
+-	Programming Concepts: Data Structures and Algorithms, Object-Oriented Programming (OOP)
+-	Database: MySQL, MongoDB
+-	Operating System: Windows Operating System
+-	Other: Networking, MS Office, GitHub, VS Code, SQL Server Management Studio (SSMS), MySQL Shell, MySQL Workbench, Bootstrap
+
 <!---
 nandit9893/nandit9893 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
