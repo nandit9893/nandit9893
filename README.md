@@ -7,7 +7,7 @@
 - 📫 I've profound knowledge in Data Structures and Algorithms.
 
 ### Skills
-- 
+- Web Technologies- HTML, CSS, JavaScript
 <!---
 nandit9893/nandit9893 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
