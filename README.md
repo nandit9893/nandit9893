@@ -6,6 +6,8 @@
 - 📫 I'm open to collaborate on Full Stack Development projects.
 - 📫 I've profound knowledge in Data Structures and Algorithms.
 
+### Skills
+- 
 <!---
 nandit9893/nandit9893 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
