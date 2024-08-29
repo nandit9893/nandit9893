@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Nandit Sharma 👋
 
 ### About Me
-- 🌱 I’m passionate software developer and web developer located in Uttar Pradesh, India with focus on MERN (MongoDb, Express.js, React.js, Node.js) Stack.
+- 🌱 I’m passionate software developer and web developer located in Uttar Pradesh, India with focus on MERN (MongoDb, Express.js, React.js, Node.js) Stack and programming languages such as C and C++.
 - 🌱 I’m looking to collaborate and seeking opportunities to kick-start my career in the tech industry.
 - 📫 I'm open to collaborate on Full Stack Development projects.
 - 📫 I've profound knowledge in Data Structures and Algorithms.
