@@ -24,6 +24,7 @@
 - Netflix: [https://imaginative-flan-ecd545.netlify.app/](https://imaginative-flan-ecd545.netlify.app/)
 - Youtube: [https://majestic-crostata-c95f8f.netlify.app/](https://majestic-crostata-c95f8f.netlify.app/)
 - Crypto Currency: [https://silly-travesseiro-179f5b.netlify.app/](https://silly-travesseiro-179f5b.netlify.app/)
+- Text Reader: [https://splendorous-otter-262cc6.netlify.app/](https://splendorous-otter-262cc6.netlify.app/)
 
 
 <!---
