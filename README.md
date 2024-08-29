@@ -20,6 +20,9 @@
 - Gmail: [nanditsharma063@gmail.com](mailto:nanditsharma063@gmail.com)
 
 
+### Project's Link
+- Netflix: [Netflix](https://imaginative-flan-ecd545.netlify.app/)
+
 
 <!---
 nandit9893/nandit9893 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
