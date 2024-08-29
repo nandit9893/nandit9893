@@ -21,7 +21,7 @@
 
 
 ### Project's Link
-- Netflix: [Netflix](https://imaginative-flan-ecd545.netlify.app/)
+- Netflix: [https://imaginative-flan-ecd545.netlify.app/](https://imaginative-flan-ecd545.netlify.app/)
 
 
 <!---
