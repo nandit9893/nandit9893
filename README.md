@@ -13,7 +13,8 @@
 -	Programming Concepts: Data Structures and Algorithms, Object-Oriented Programming (OOP)
 -	Database: MySQL, MongoDB
 -	Operating System: Windows Operating System
--	Other: Networking, MS Office, GitHub, VS Code, SQL Server Management Studio (SSMS), MySQL Shell, MySQL Workbench, Bootstrap
+-	Other: Networking, GitHub, SQL Server Management Studio (SSMS), MySQL Shell, MySQL Workbench, Bootstrap
+-	Tools: MS Office, VS Code
 
 ### Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/nandit-sharma-9a0174203/](https://www.linkedin.com/in/nandit-sharma-9a0174203/)
