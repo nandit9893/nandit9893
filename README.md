@@ -10,7 +10,7 @@
 - Web Technologies - HTML, CSS, JavaScript
 -	Framework: React JS, Node JS, Express JS
 -	Programming Languages: C, C++ (Standard Template Library)              
--	Programming Concepts: Data Structures and Algorithms, Object-Oriented Programming (OOP)
+-	Programming Concepts: Data Structures and Algorithms, Object-Oriented Programming (OOPs)
 -	Database: MySQL, MongoDB
 -	Operating System: Windows Operating System
 -	Other: Networking, GitHub, SQL Server Management Studio (SSMS), MySQL Shell, MySQL Workbench, Bootstrap
