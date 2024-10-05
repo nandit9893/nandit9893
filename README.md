@@ -24,6 +24,7 @@
 
 ### Project's Link
 - E - Commerce: [https://stylo-clothes.onrender.com/](https://stylo-clothes.onrender.com/)
+- E - Commerce (Admin) : [https://stylo-clothes-admin-panel.onrender.com](https://stylo-clothes-admin-panel.onrender.com)
 - Geographic Information System: [https://gis-front-end.onrender.com/](https://gis-front-end.onrender.com/)
 - Chat App: [https://chat-app-front-end-h85p.onrender.com/](https://chat-app-front-end-h85p.onrender.com/) 
 - Netflix: [https://imaginative-flan-ecd545.netlify.app/](https://imaginative-flan-ecd545.netlify.app/)
