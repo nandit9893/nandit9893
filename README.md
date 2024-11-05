@@ -35,7 +35,8 @@
 - Currency, Language, Unit: [https://converter-pro-nandit.onrender.com/](https://converter-pro-nandit.onrender.com/)
 - Spotify: [https://spotify-nandit-mern.onrender.com/](https://spotify-nandit-mern.onrender.com/)
 
-  #### Notice - Some projects are uploaded on render.com as I have used free service so they will take some time to respond and updating the UI.
+  #### Notice -
+  Some projects are uploaded on render.com as I have used free service so they will take some time to respond and updating the UI.
 
 
 <!---
