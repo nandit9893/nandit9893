@@ -33,6 +33,9 @@
 - Crypto Currency: [https://silly-travesseiro-179f5b.netlify.app/](https://silly-travesseiro-179f5b.netlify.app/)
 - Text Reader: [https://splendorous-otter-262cc6.netlify.app/](https://splendorous-otter-262cc6.netlify.app/)
 - Currency, Language, Unit: [https://converter-pro-nandit.onrender.com/](https://converter-pro-nandit.onrender.com/)
+- Spotify: [https://spotify-nandit-mern.onrender.com/](https://spotify-nandit-mern.onrender.com/)
+
+  ## Notice - Some projects are uploaded on render.com as I have used free service so they will take some time to respond and updating the UI.
 
 
 <!---
