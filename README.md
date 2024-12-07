@@ -18,6 +18,7 @@
 - Gmail: [nanditsharma063@gmail.com](mailto:nanditsharma063@gmail.com)
 - My Website [https://nanditsharmadeveloper.netlify.app](https://nanditsharmadeveloper.netlify.app)
 ### Project's Link
+- Hotel Booking : [https://sharma-resident-stays.onrender.com/](https://sharma-resident-stays.onrender.com/)
 - E - Commerce: [https://stylo-clothes.onrender.com/](https://stylo-clothes.onrender.com/)
 - E - Commerce (Admin) : [https://stylo-clothes-admin-panel.onrender.com](https://stylo-clothes-admin-panel.onrender.com)
 - Geographic Information System: [https://gis-front-end.onrender.com/](https://gis-front-end.onrender.com/)
