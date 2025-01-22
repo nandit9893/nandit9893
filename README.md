@@ -24,7 +24,7 @@
 - Geographic Information System: [https://gis-front-end.onrender.com/](https://gis-front-end.onrender.com/)
 - Chat App: [https://chat-app-front-end-h85p.onrender.com/](https://chat-app-front-end-h85p.onrender.com/)
 - User Data Management: [https://task-manger-developer.onrender.com/](https://task-manger-developer.onrender.com/)
-- Netflix: [https://imaginative-flan-ecd545.netlify.app/](https://imaginative-flan-ecd545.netlify.app/)
+- Netflix: [https://curious-manatee-06147e.netlify.app/](https://curious-manatee-06147e.netlify.app/)
 - Youtube: [https://superb-daffodil-3f38e5.netlify.app/](https://superb-daffodil-3f38e5.netlify.app/)
 - Crypto Currency: [https://silly-travesseiro-179f5b.netlify.app/](https://silly-travesseiro-179f5b.netlify.app/)
 - Text Reader: [https://splendorous-otter-262cc6.netlify.app/](https://splendorous-otter-262cc6.netlify.app/)
