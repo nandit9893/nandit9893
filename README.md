@@ -5,16 +5,6 @@
 - 📫 I'm open to collaborate on Full Stack Development projects.
 - 📫 I've profound knowledge in Data Structures and Algorithms.
 
-### Skills
-- Web Technologies - HTML, CSS, JavaScript
--	Framework: React JS, Node JS, Express JS
--	Programming Languages: C, C++ (Standard Template Library)              
--	Programming Concepts: Data Structures and Algorithms, Object-Oriented Programming (OOPs)
--	Database: MySQL, MongoDB
--	Operating System: Windows Operating System
--	Other: Networking, GitHub, SQL Server Management Studio (SSMS), MySQL Shell, MySQL Workbench, Bootstrap
--	Tools: MS Office, VS Code
-
 
 
 ## 🌐 Socials:
