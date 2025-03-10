@@ -1,6 +1,20 @@
 # 👋 Hello, I’m Nandit Sharma 👋
-# 💫 About Me:
- I’m passionate software developer and web developer located in Uttar Pradesh, India with focus on MERN (Mongo DB, Express.js, React.js, Node.js) Stack and programming languages such as C and C++ respectively.<br> I’m looking to collaborate and seeking opportunities to kick-start my career in the tech industry.<br> I'm open to collaborate on Full Stack Development projects.<br>I've profound knowledge in Data Structures and Algorithms.<br><br>Web Technologies - HTML, CSS, JavaScript<br>Framework: React JS, Node JS, Express JS<br>Programming Languages: C, C++ (Standard Template Library)<br>Programming Concepts: Data Structures and Algorithms, Object-Oriented Programming (OOPs)<br>Database: MySQL, MongoDB<br>Operating System: Windows Operating System<br>Other: Networking, GitHub, SQL Server Management Studio (SSMS), MySQL Shell, MySQL Workbench, Bootstrap<br>Tools: MS Office, VS Code
+### About Me
+- 🌱 I’m passionate software developer and web developer located in Uttar Pradesh, India with focus on MERN (MongoDb, Express.js, React.js, Node.js) Stack and programming languages such as C and C++ respectively.
+- 🌱 I’m looking to collaborate and seeking opportunities to kick-start my career in the tech industry.
+- 📫 I'm open to collaborate on Full Stack Development projects.
+- 📫 I've profound knowledge in Data Structures and Algorithms.
+
+### Skills
+- Web Technologies - HTML, CSS, JavaScript
+-	Framework: React JS, Node JS, Express JS
+-	Programming Languages: C, C++ (Standard Template Library)              
+-	Programming Concepts: Data Structures and Algorithms, Object-Oriented Programming (OOPs)
+-	Database: MySQL, MongoDB
+-	Operating System: Windows Operating System
+-	Other: Networking, GitHub, SQL Server Management Studio (SSMS), MySQL Shell, MySQL Workbench, Bootstrap
+-	Tools: MS Office, VS Code
+
 
 
 ## 🌐 Socials:
