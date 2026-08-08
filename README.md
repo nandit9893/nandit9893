@@ -81,13 +81,9 @@ fun_fact: 100+ DSA problems solved across LeetCode & CodeChef
 <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nodemon-323330?style=flat-square&logo=nodemon&logoColor=BBDEAD"/>
 
-<br/>
-
 **Database & Cache**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,sqlite,redis" height="45"/>
-
-<br/>
 
 **Data & Deployment**
 <br/>
