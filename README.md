@@ -73,7 +73,7 @@ fun_fact: 100+ DSA problems solved across LeetCode & CodeChef
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **Backend & Real-time**
 <br/>
@@ -84,13 +84,13 @@ fun_fact: 100+ DSA problems solved across LeetCode & CodeChef
 <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nodemon-323330?style=flat-square&logo=nodemon&logoColor=BBDEAD"/>
 
-<br/><br/>
+<br/>
 
 **Database & Cache**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,sqlite,redis" height="45"/>
 
-<br/><br/>
+<br/>
 
 **Data & Deployment**
 <br/>
@@ -138,7 +138,7 @@ fun_fact: 100+ DSA problems solved across LeetCode & CodeChef
 <a href="mailto:nanditsharma063@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-2563EB?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 <a href="https://linkedin.com/in/nandit-sharma-9a0174203"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://camo.githubusercontent.com/819f791104e87de0776aa392ea6d3d2d7564984a6a65f0205ed5e2c76666066c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966"/>
 
