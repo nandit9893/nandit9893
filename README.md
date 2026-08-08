@@ -57,13 +57,11 @@ fun_fact: 100+ DSA problems solved across LeetCode & CodeChef
 <br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,js" height="45"/>
 
-<br/><br/>
 
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,vite,jquery" height="45"/>
 
-<br/><br/>
 
 **React Ecosystem**
 <br/>
@@ -73,7 +71,6 @@ fun_fact: 100+ DSA problems solved across LeetCode & CodeChef
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
 
-<br/>
 
 **Backend & Real-time**
 <br/>
