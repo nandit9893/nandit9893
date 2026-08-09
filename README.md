@@ -6,11 +6,11 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/nandit-sharma-9a0174203"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nanditsharma063@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/classy9893"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="https://instagram.com/nanditsharma063"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://facebook.com/nandit.sharma.399"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nandit-sharma-9a0174203" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nanditsharma063@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/classy9893" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://instagram.com/nanditsharma063" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://facebook.com/nandit.sharma.399" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 </div>
 
@@ -104,20 +104,20 @@ fun_fact: 100+ DSA problems solved across LeetCode & CodeChef
 <th align="left">Stack</th>
 <th align="left">Live</th>
 </tr>
-<tr><td>🏨 Hotel Booking — Sharma Resident Stays</td><td>React · Firebase · Cloudinary</td><td><a href="https://sharma-resident-stays.onrender.com/">Visit →</a></td></tr>
-<tr><td>🛍️ Stylo E-Commerce</td><td>React · Node · MongoDB</td><td><a href="https://stylo-clothes.onrender.com/">Visit →</a></td></tr>
-<tr><td>🛠️ Stylo E-Commerce — Admin Panel</td><td>React · Node · MongoDB</td><td><a href="https://stylo-clothes-admin-panel.onrender.com">Visit →</a></td></tr>
-<tr><td>🗺️ Geographic Information System</td><td>React · GIS APIs</td><td><a href="https://gis-front-end.onrender.com/">Visit →</a></td></tr>
-<tr><td>💬 Real-time Chat App</td><td>React · Socket.io · Node</td><td><a href="https://chat-app-front-end-h85p.onrender.com/">Visit →</a></td></tr>
-<tr><td>✅ User Data / Task Manager</td><td>React · Node · MongoDB</td><td><a href="https://task-manger-developer.onrender.com/">Visit →</a></td></tr>
-<tr><td>🎬 Netflix Clone</td><td>React · CSS</td><td><a href="https://curious-manatee-06147e.netlify.app/">Visit →</a></td></tr>
-<tr><td>▶️ YouTube Clone</td><td>React · YouTube API</td><td><a href="https://superb-daffodil-3f38e5.netlify.app/">Visit →</a></td></tr>
-<tr><td>💰 Crypto Currency Tracker</td><td>React · Chart.js</td><td><a href="https://silly-travesseiro-179f5b.netlify.app/">Visit →</a></td></tr>
-<tr><td>📖 Text Reader</td><td>React · Web Speech API</td><td><a href="https://splendorous-otter-262cc6.netlify.app/">Visit →</a></td></tr>
-<tr><td>🔁 Currency / Language / Unit Converter</td><td>React · APIs</td><td><a href="https://converter-pro-nandit.onrender.com/">Visit →</a></td></tr>
-<tr><td>🎵 Spotify Clone</td><td>React · Node · MongoDB</td><td><a href="https://spotify-nandit-mern.onrender.com/">Visit →</a></td></tr>
-<tr><td>🎛️ Spotify Clone — Admin Panel</td><td>React · Node · MongoDB</td><td><a href="https://spotify-nandit-admin.onrender.com/">Visit →</a></td></tr>
-<tr><td>🏡 Real Estate Platform</td><td>React · MongoDB · REST</td><td><a href="https://real-estate-sharma-properties.onrender.com">Visit →</a></td></tr>
+<tr><td>🏨 Hotel Booking — Sharma Resident Stays</td><td>React · Firebase · Cloudinary</td><td><a href="https://sharma-resident-stays.onrender.com/" target="_blank">Visit →</a></td></tr>
+<tr><td>🛍️ Stylo E-Commerce</td><td>React · Node · MongoDB</td><td><a href="https://stylo-clothes.onrender.com/" target="_blank">Visit →</a></td></tr>
+<tr><td>🛠️ Stylo E-Commerce — Admin Panel</td><td>React · Node · MongoDB</td><td><a href="https://stylo-clothes-admin-panel.onrender.com" target="_blank">Visit →</a></td></tr>
+<tr><td>🗺️ Geographic Information System</td><td>React · GIS APIs</td><td><a href="https://gis-front-end.onrender.com/" target="_blank">Visit →</a></td></tr>
+<tr><td>💬 Real-time Chat App</td><td>React · Socket.io · Node</td><td><a href="https://chat-app-front-end-h85p.onrender.com/" target="_blank">Visit →</a></td></tr>
+<tr><td>✅ User Data / Task Manager</td><td>React · Node · MongoDB</td><td><a href="https://task-manger-developer.onrender.com/" target="_blank">Visit →</a></td></tr>
+<tr><td>🎬 Netflix Clone</td><td>React · CSS</td><td><a href="https://curious-manatee-06147e.netlify.app/" target="_blank">Visit →</a></td></tr>
+<tr><td>▶️ YouTube Clone</td><td>React · YouTube API</td><td><a href="https://superb-daffodil-3f38e5.netlify.app/" target="_blank">Visit →</a></td></tr>
+<tr><td>💰 Crypto Currency Tracker</td><td>React · Chart.js</td><td><a href="https://silly-travesseiro-179f5b.netlify.app/" target="_blank">Visit →</a></td></tr>
+<tr><td>📖 Text Reader</td><td>React · Web Speech API</td><td><a href="https://splendorous-otter-262cc6.netlify.app/" target="_blank">Visit →</a></td></tr>
+<tr><td>🔁 Currency / Language / Unit Converter</td><td>React · APIs</td><td><a href="https://converter-pro-nandit.onrender.com/" target="_blank">Visit →</a></td></tr>
+<tr><td>🎵 Spotify Clone</td><td>React · Node · MongoDB</td><td><a href="https://spotify-nandit-mern.onrender.com/" target="_blank">Visit →</a></td></tr>
+<tr><td>🎛️ Spotify Clone — Admin Panel</td><td>React · Node · MongoDB</td><td><a href="https://spotify-nandit-admin.onrender.com/" target="_blank">Visit →</a></td></tr>
+<tr><td>🏡 Real Estate Platform</td><td>React · MongoDB · REST</td><td><a href="https://real-estate-sharma-properties.onrender.com" target="_blank">Visit →</a></td></tr>
 </table>
 
 > ⏳ Some projects are hosted on Render's free tier — the first load may take a few seconds while the server spins up.
@@ -128,8 +128,8 @@ fun_fact: 100+ DSA problems solved across LeetCode & CodeChef
 
 ### 💌 Let's Connect
 
-<a href="mailto:nanditsharma063@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-2563EB?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nandit-sharma-9a0174203"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nanditsharma063@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Say_Hello-2563EB?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nandit-sharma-9a0174203" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/>
 
